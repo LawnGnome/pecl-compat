@@ -105,5 +105,6 @@
 #include "src/zend_string.h"
 #include "src/zend_hash.h"
 #include "src/zend_API.h"
+#include "src/zend_resource.h"
 
 #endif /* _COMPAT_H */
